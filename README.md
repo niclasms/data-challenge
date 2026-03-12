@@ -12,7 +12,7 @@ Ziel ist ein reproduzierbares, erweiterbares Setup, das ein moeglichst vollstaen
 ## Ziel der Aufgabenstellung
 Implementiere einen End-to-End-Workflow in `n8n` fuer NRW-Rechtsquellen mit zwei Betriebsmodi:
 
-1. **Initialer Vollaufbau des Datasets (muss nicht vollständig gelaufen sein)** 
+1. **Initialer Vollaufbau des Datasets (Natürlich nur angedeutet: wie bekämen wir Vollständigkeit hin, WENN wir das jetzt durchlaufen ließen?)** 
 2. **Daily Update Pipeline**
 
 Wir interessieren uns ausschließlich für Gesetze, die in Kraft sind.
